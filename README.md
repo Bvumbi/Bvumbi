@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Livingstone Bvumbi, an AWS Certified Solutions Architect Associate cloud wizard :) 
-- 👀 I’m interested in Cloud DevSecOps and Data Engineering
-- 🌱 I’m currently learning Data Engineering
+- 👋 Hi, I’m Livingstone Bvumbi, an AWS Certified Solutions Architect Associate. 
+- 👀 I’m interested in Cloud DevSecOps and Data Engineering.
+- 🌱 I’m currently learning Data Engineering.
 - 💞️ I’m looking to collaborate on open source tools that make Cloud Computing easy and efficient.
 - 📫 How to reach me - livingstonebvumbi@gmail.com
 
